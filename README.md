@@ -2,7 +2,6 @@
 
 RISC-V 기반 FFT 가속기에서
 메모리 접근 및 연산 흐름을 최적화한 프로젝트
-(Konkuk University, 2025)
 
 ---
 
